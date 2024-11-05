@@ -8,6 +8,7 @@ Run the Code by writing in CMD java (file name)
 
 Compiled Code is in the main folder, and the completed code is within the java_code folder
 
+If using Random Elements, I need to use import java.util.* otheriwse it does not fully work
 
 Working way through Head First Java by Kathy Sierra, Bert Bates and Trisha Gee
 https://resources.oreilly.com/examples/0636920034452/-/blob/main/installing-java.md

@@ -1,0 +1,3 @@
+Have been working through the 'Intro to Data Anlaysis with Python' Module on CodeSignal
+
+Therefore, no code to upload to this Repository at the moment, due to learning the basics of the tasks.
